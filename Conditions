@@ -1,0 +1,129 @@
+# if statement:
+
+# a=33
+# b=200
+# if b > a:
+#     print("b grerater than a")
+
+# a=77
+# b=2
+# if b<a:
+#     print("b less than a")    
+
+# else:
+
+# a=3
+# b=4
+# if b>a:
+#     print("b graeter than a")
+
+# else:
+#     print("a greater than b")
+    
+# a=987
+# b=7633
+# if a<b:
+#     print("a less than b")
+# else:
+#     print("b greater than a")
+
+
+# a=76
+# b=547
+# if a<b:
+#     print("a less than b")
+# else:
+#     print("b greater than a")
+
+
+# elif:
+
+# a=3
+# b=3
+# if a<b:
+#     print("a less than b")
+# elif a==b:
+#     print("a and b are equal")
+
+# a=3
+# b=4
+# if a<b:
+#     print("a less than b")
+# elif a==b:
+#     print("a and b are equal")
+# else:
+#     print("a greater than b")
+
+
+
+#  nested if:
+
+# x=41
+# if x>10:
+#     print("above ten")
+#     if x>20:
+#         print("and also above 20")
+#     else:
+#         print("but not above 20")
+# else:
+#       print("below 10")
+
+
+
+# name1= 67
+# name2=43
+# if name1<70:
+#     print("name1 is less")
+#     if name2>50:
+#         print("name2 is greater")
+#     else:
+#         print("not")
+
+
+
+
+# pass:
+
+
+
+# a=33
+# b=200
+# if b>a:
+#     pass
+
+# a=333
+# b=200
+# if b>a:
+#     pass
+
+# odd or even :
+
+# x=int(input("enter a number"))
+# if x%2==0:
+#     print("value is even")
+# else:
+#     print("value is odd")
+     
+
+
+# a=int(input("enter the first value"))
+# # b=int(input("enter the second value"))
+# # c=int(input("enter the third value"))
+# # if a<b:
+# #     print("a less than b")
+# # elif a==b==c:
+# #     print("a & b are equal")
+# # else:
+# #     print("b greater than a")
+
+# leap year:
+
+# x=int(input("enter the year :"))
+# if x%4==0 and x%100!=0 or x%400==0:
+#     print (f"{x} is leap year")
+# else:
+#     print(f"{x} is not leap year")
+
+
+
+    

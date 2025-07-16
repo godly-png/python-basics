@@ -1,0 +1,24 @@
+# a="hello"
+# b="world"
+# c=a+" "+b
+# print(c)
+
+# a="hello"
+# b="world"
+# c=a+""+b
+# print(c)
+
+# Formating:
+
+# age="78"
+# x=f"my nameis john,i am {age}"
+# print(x)
+
+# age="78"
+# x=f"i am {age}"
+# print(x)
+
+
+price="89"
+X=f"the price is {price: .2f} dollar"
+print(X)

@@ -1,0 +1,65 @@
+# upper &lower case number
+
+# a="hello World"
+# print(a.upper())
+
+# x="godly mathew chacko"
+# print(x.upper())
+
+# str="BOY"
+# print(str.lower())
+
+# Strip Function
+
+# x="good boy"
+# print(x)
+
+# x="  good boy  "
+# print(x.strip())
+
+# Replace String
+
+# name1="godly mathew"
+# print(name1.replace("l","i"))
+
+# num="112223456"
+# print(num.replace("2",'4'))
+
+# name="accdef"
+# print(name.replace('c','b'))
+
+# Split Function:
+
+
+# a="hai hello"
+# print(a.split(" "))
+
+# name="79076 54027"
+# print(name.split(" "))
+
+# name="79076 54027"
+# print(name.split(", "))
+
+
+# Count:
+
+# name="i love apples apples are my favourite"
+# print(name.count("a"))
+
+# name="i love apples,apples are my favourite"
+# print(name.count("p"))
+
+
+# startwith & endwith:
+
+# x="hello Godly"
+# print(x.startswith("i"))
+
+# name="jaison"
+# print(name.startswith("j"))
+
+# name1="raise the hand"
+# print(name1.endswith("g"))
+
+# name2="hello world"
+# print(name2.endswith("d"))
